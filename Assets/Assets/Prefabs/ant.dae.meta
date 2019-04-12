@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: ef8533f6c2ece5b48b0d4baae3c88262
+timeCreated: 1512910066
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: //RootNode
+    100004: Antenna
+    100006: Antenna 1
+    100008: ArmyAnt
+    100010: ArmyAnt_1
+    100012: Head
+    100014: Head-Half
+    100016: Head-Half 1
+    100018: ID103
+    100020: ID109
+    100022: ID144
+    100024: ID144 1
+    100026: ID150
+    100028: ID150 1
+    100030: ID156
+    100032: ID156 1
+    100034: ID162
+    100036: ID162 1
+    100038: ID168
+    100040: ID168 1
+    100042: ID183
+    100044: ID196
+    100046: ID202
+    100048: ID208
+    100050: ID214
+    100052: ID220
+    100054: ID227
+    100056: ID241
+    100058: ID249
+    100060: ID255
+    100062: ID261
+    100064: ID267
+    100066: ID273
+    100068: ID280
+    100070: ID78
+    100072: ID78 1
+    100074: ID78 2
+    100076: ID84
+    100078: ID84 1
+    100080: ID84 2
+    100082: instance_0
+    100084: instance_1
+    100086: instance_10
+    100088: instance_11
+    100090: instance_12
+    100092: instance_13
+    100094: instance_14
+    100096: instance_15
+    100098: instance_16
+    100100: instance_17
+    100102: instance_18
+    100104: instance_19
+    100106: instance_2
+    100108: instance_20
+    100110: instance_21
+    100112: instance_22
+    100114: instance_23
+    100116: instance_24
+    100118: instance_25
+    100120: instance_26
+    100122: instance_27
+    100124: instance_28
+    100126: instance_29
+    100128: instance_3
+    100130: instance_30
+    100132: instance_4
+    100134: instance_5
+    100136: instance_6
+    100138: instance_7
+    100140: instance_8
+    100142: instance_9
+    100144: LongRearLegSegment1
+    100146: LongRearLegSegment1 1
+    100148: LongRearLegSegment2
+    100150: LongRearLegSegment2 1
+    100152: LongRearLegSegmet3
+    100154: LongRearLegSegmet3 1
+    100156: MidLegInner
+    100158: MidLegInner 1
+    100160: MidLegInner 2
+    100162: MidLegInner 3
+    100164: MidLegLOuter
+    100166: MidLegLOuter 1
+    100168: MidLegLOuter 2
+    100170: MidLegLOuter 3
+    100172: MidLegMid
+    100174: MidLegMid 1
+    100176: MidLegMid 2
+    100178: MidLegMid 3
+    100180: RearLegInner
+    100182: RearLegInner 1
+    100184: RearLegMid
+    100186: RearLegMid 1
+    100188: skp_camera_Last_Saved_SketchUp_View
+    100190: Thorax
+    400000: Abdomen
+    400002: //RootNode
+    400004: Antenna
+    400006: Antenna 1
+    400008: ArmyAnt
+    400010: ArmyAnt_1
+    400012: Head
+    400014: Head-Half
+    400016: Head-Half 1
+    400018: ID103
+    400020: ID109
+    400022: ID144
+    400024: ID144 1
+    400026: ID150
+    400028: ID150 1
+    400030: ID156
+    400032: ID156 1
+    400034: ID162
+    400036: ID162 1
+    400038: ID168
+    400040: ID168 1
+    400042: ID183
+    400044: ID196
+    400046: ID202
+    400048: ID208
+    400050: ID214
+    400052: ID220
+    400054: ID227
+    400056: ID241
+    400058: ID249
+    400060: ID255
+    400062: ID261
+    400064: ID267
+    400066: ID273
+    400068: ID280
+    400070: ID78
+    400072: ID78 1
+    400074: ID78 2
+    400076: ID84
+    400078: ID84 1
+    400080: ID84 2
+    400082: instance_0
+    400084: instance_1
+    400086: instance_10
+    400088: instance_11
+    400090: instance_12
+    400092: instance_13
+    400094: instance_14
+    400096: instance_15
+    400098: instance_16
+    400100: instance_17
+    400102: instance_18
+    400104: instance_19
+    400106: instance_2
+    400108: instance_20
+    400110: instance_21
+    400112: instance_22
+    400114: instance_23
+    400116: instance_24
+    400118: instance_25
+    400120: instance_26
+    400122: instance_27
+    400124: instance_28
+    400126: instance_29
+    400128: instance_3
+    400130: instance_30
+    400132: instance_4
+    400134: instance_5
+    400136: instance_6
+    400138: instance_7
+    400140: instance_8
+    400142: instance_9
+    400144: LongRearLegSegment1
+    400146: LongRearLegSegment1 1
+    400148: LongRearLegSegment2
+    400150: LongRearLegSegment2 1
+    400152: LongRearLegSegmet3
+    400154: LongRearLegSegmet3 1
+    400156: MidLegInner
+    400158: MidLegInner 1
+    400160: MidLegInner 2
+    400162: MidLegInner 3
+    400164: MidLegLOuter
+    400166: MidLegLOuter 1
+    400168: MidLegLOuter 2
+    400170: MidLegLOuter 3
+    400172: MidLegMid
+    400174: MidLegMid 1
+    400176: MidLegMid 2
+    400178: MidLegMid 3
+    400180: RearLegInner
+    400182: RearLegInner 1
+    400184: RearLegMid
+    400186: RearLegMid 1
+    400188: skp_camera_Last_Saved_SketchUp_View
+    400190: Thorax
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: Abdomen
+    2300002: Antenna
+    2300004: Antenna 1
+    2300006: Head-Half
+    2300008: Head-Half 1
+    2300010: ID103
+    2300012: ID109
+    2300014: ID144
+    2300016: ID144 1
+    2300018: ID150
+    2300020: ID150 1
+    2300022: ID156
+    2300024: ID156 1
+    2300026: ID162
+    2300028: ID162 1
+    2300030: ID168
+    2300032: ID168 1
+    2300034: ID183
+    2300036: ID196
+    2300038: ID202
+    2300040: ID208
+    2300042: ID214
+    2300044: ID220
+    2300046: ID241
+    2300048: ID249
+    2300050: ID255
+    2300052: ID261
+    2300054: ID267
+    2300056: ID273
+    2300058: ID78
+    2300060: ID78 1
+    2300062: ID78 2
+    2300064: ID84
+    2300066: ID84 1
+    2300068: ID84 2
+    2300070: LongRearLegSegment1
+    2300072: LongRearLegSegment1 1
+    2300074: LongRearLegSegment2
+    2300076: LongRearLegSegment2 1
+    2300078: LongRearLegSegmet3
+    2300080: LongRearLegSegmet3 1
+    2300082: MidLegInner
+    2300084: MidLegInner 1
+    2300086: MidLegInner 2
+    2300088: MidLegInner 3
+    2300090: MidLegLOuter
+    2300092: MidLegLOuter 1
+    2300094: MidLegLOuter 2
+    2300096: MidLegLOuter 3
+    2300098: MidLegMid
+    2300100: MidLegMid 1
+    2300102: MidLegMid 2
+    2300104: MidLegMid 3
+    2300106: RearLegInner
+    2300108: RearLegInner 1
+    2300110: RearLegMid
+    2300112: RearLegMid 1
+    2300114: Thorax
+    3300000: Abdomen
+    3300002: Antenna
+    3300004: Antenna 1
+    3300006: Head-Half
+    3300008: Head-Half 1
+    3300010: ID103
+    3300012: ID109
+    3300014: ID144
+    3300016: ID144 1
+    3300018: ID150
+    3300020: ID150 1
+    3300022: ID156
+    3300024: ID156 1
+    3300026: ID162
+    3300028: ID162 1
+    3300030: ID168
+    3300032: ID168 1
+    3300034: ID183
+    3300036: ID196
+    3300038: ID202
+    3300040: ID208
+    3300042: ID214
+    3300044: ID220
+    3300046: ID241
+    3300048: ID249
+    3300050: ID255
+    3300052: ID261
+    3300054: ID267
+    3300056: ID273
+    3300058: ID78
+    3300060: ID78 1
+    3300062: ID78 2
+    3300064: ID84
+    3300066: ID84 1
+    3300068: ID84 2
+    3300070: LongRearLegSegment1
+    3300072: LongRearLegSegment1 1
+    3300074: LongRearLegSegment2
+    3300076: LongRearLegSegment2 1
+    3300078: LongRearLegSegmet3
+    3300080: LongRearLegSegmet3 1
+    3300082: MidLegInner
+    3300084: MidLegInner 1
+    3300086: MidLegInner 2
+    3300088: MidLegInner 3
+    3300090: MidLegLOuter
+    3300092: MidLegLOuter 1
+    3300094: MidLegLOuter 2
+    3300096: MidLegLOuter 3
+    3300098: MidLegMid
+    3300100: MidLegMid 1
+    3300102: MidLegMid 2
+    3300104: MidLegMid 3
+    3300106: RearLegInner
+    3300108: RearLegInner 1
+    3300110: RearLegMid
+    3300112: RearLegMid 1
+    3300114: Thorax
+    4300000: LongRearLegSegment1
+    4300002: RearLegInner
+    4300004: LongRearLegSegmet3
+    4300006: LongRearLegSegment2
+    4300008: RearLegMid
+    4300010: MidLegInner
+    4300012: MidLegMid
+    4300014: MidLegLOuter
+    4300016: ID78
+    4300018: ID84
+    4300020: MidLegLOuter
+    4300022: ID103
+    4300024: ID109
+    4300026: Thorax
+    4300028: Abdomen
+    4300030: Antenna
+    4300032: ID144
+    4300034: ID150
+    4300036: ID156
+    4300038: ID162
+    4300040: ID168
+    4300042: Head-Half
+    4300044: ID183
+    4300046: ID196
+    4300048: ID202
+    4300050: ID208
+    4300052: ID214
+    4300054: ID220
+    4300056: Head-Half
+    4300058: ID241
+    4300060: ID249
+    4300062: ID255
+    4300064: ID261
+    4300066: ID267
+    4300068: ID273
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_007
+    second: {fileID: 2100000, guid: 8d4cb5940222f4d419343bfe5b77f31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: insecteye
+    second: {fileID: 2100000, guid: 7de9df4a18d62d14b941a463207947fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0001
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
